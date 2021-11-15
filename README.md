@@ -39,5 +39,8 @@ pip install pygame
 ```
 python piano.py
 ```
+
+3. Press ``esc`` to quit. / 按下 ``esc`` 退出。
+
 ___
 *Inspiration and music files come from / 灵感及音乐文件来源于 : [KikiLetGo/MyPiano](https://github.com/KikiLetGo/MyPiano.git).*
