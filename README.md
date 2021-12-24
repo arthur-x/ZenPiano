@@ -1,5 +1,7 @@
 # ZenPiano / 禅 · 钢琴
 
+![ZenPiano](zp.png)
+
 A keyboard piano written in the zen of minimalism and base of 2.
 
 这是一个以极简主义和二进制的禅宗为基础而写成的键盘钢琴。
@@ -27,6 +29,10 @@ A keyboard piano written in the zen of minimalism and base of 2.
 ```
 
 **How to play / 使用说明:**
+
+Download the latest release, unzip and run `ZenPiano.exe`. / 下载最新发布版，解压然后运行 `ZenPiano.exe`。
+
+*OR / 或者：*
 
 1. If ``pygame`` not installed, run / 如果未安装 ``pygame``, 执行:
 
