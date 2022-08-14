@@ -2,9 +2,9 @@
 
 ![ZenPiano](zp.png)
 
-A keyboard piano written in the zen of minimalism and base of 2.
+A keyboard piano written in the zen of minimalism.
 
-这是一个以极简主义和二进制的禅宗为基础而写成的键盘钢琴。
+这是一个极简主义的键盘钢琴。
 
 **Features / 特性:**
 
